@@ -10,4 +10,5 @@ A community-maintained inventory of fitness equipment, aiming to help people (an
 - Start new locations from [TEMPLATE.md](TEMPLATE.md).
 - Completeness estimates are contributors' rough assessments of inventory coverage: **1/5** = a few items, **2/5** = some equipment, **3/5** = substantial coverage, **4/5** = nearly complete, **5/5** = believed complete.
 - Update **Last edited** whenever you change a location's equipment list.
+
 This project is not affiliated with Equinox.
