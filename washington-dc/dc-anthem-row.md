@@ -4,6 +4,7 @@
 - **City:** Washington, DC
 - **Club page:** [Equinox Anthem Row](https://www.equinox.com/clubs/washington-dc/anthemrow)
 - **Completeness estimate:** 2/5
+- **Last edited:** 2026-09-30
 
 ## Strength machines
 
@@ -25,16 +26,16 @@
 - Cable lat pulldown
 - Seated cable row
 
-## Racks and guided-bar machines
+## Racks and benches
 
 - Smith machine
 - Squat rack with barbell
+- Barbell bench press station
 
 ## Free weights and accessories
 
 - Dumbbells
 - EZ-curl bars
-- Barbell bench press station
 
 ## Cardio
 
